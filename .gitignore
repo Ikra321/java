@@ -1,0 +1,38 @@
+# ---------- Compiled ----------
+*.class
+
+# ---------- Build output ----------
+/target/
+/build/
+/out/
+/bin/
+
+# ---------- Logs & crash dumps ----------
+*.log
+hs_err_pid*
+replay_pid*
+*.hprof
+
+# ---------- IDE ----------
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.vscode/
+
+# ---------- Editor backups ----------
+*~
+*.bak
+*.swp
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db
+
+# ---------- Archives ----------
+*.war
+*.ear
+*.nar
