@@ -1,0 +1,15 @@
+{
+    "sessionNumber": 3,
+    "subjects": [
+        {
+            "grade": 9,
+            "name": "Математический анализ",
+            "isExam": true
+        },
+        {
+            "grade": 9,
+            "name": "ПП",
+            "isExam": true
+        }
+    ]
+}
